@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for JLL/T
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn Machine Learning
+- 🥅 2022 Goals: Learn StencilJs, and VueJs
 - ⚡ Fun fact: I love playing Badminton
 
 ### Connect with me:
